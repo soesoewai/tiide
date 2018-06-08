@@ -8,4 +8,4 @@ def hello():
 
 @app.route("/soe")
 def soe():
-    return "Welcome to TIIDE World"
+    return "Hello Soe Soe Wai"
