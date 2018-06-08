@@ -6,6 +6,6 @@ app = Flask(__name__)
 def hello():
     return "Hello World"
 
-@app.route("/tiide")
-def tiide():
+@app.route("/soe")
+def soe():
     return "Welcome to TIIDE World"
